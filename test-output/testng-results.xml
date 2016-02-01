@@ -1,33 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="84601" started-at="2016-02-01T10:13:59Z" finished-at="2016-02-01T10:15:24Z">
+  <suite name="Suite" duration-ms="60925" started-at="2016-02-01T10:35:15Z" finished-at="2016-02-01T10:36:16Z">
     <groups>
     </groups>
-    <test name="FirefoxTest" duration-ms="83312" started-at="2016-02-01T10:13:59Z" finished-at="2016-02-01T10:15:23Z">
+    <test name="FirefoxTest" duration-ms="60925" started-at="2016-02-01T10:35:15Z" finished-at="2016-02-01T10:36:16Z">
       <class name="TestScripts.LoginTests">
-        <test-method status="PASS" signature="test1()[pri:0, instance:TestScripts.LoginTests@3c1e69]" name="test1" duration-ms="62675" started-at="2016-02-01T15:43:59Z" finished-at="2016-02-01T15:45:02Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:TestScripts.LoginTests@3c1e69]" name="test1" duration-ms="39508" started-at="2016-02-01T16:05:15Z" finished-at="2016-02-01T16:05:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:TestScripts.LoginTests@3c1e69]" name="test2" duration-ms="20622" started-at="2016-02-01T15:45:02Z" finished-at="2016-02-01T15:45:23Z">
+        <test-method status="PASS" signature="test2()[pri:0, instance:TestScripts.LoginTests@3c1e69]" name="test2" duration-ms="21383" started-at="2016-02-01T16:05:54Z" finished-at="2016-02-01T16:06:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
       </class> <!-- TestScripts.LoginTests -->
     </test> <!-- FirefoxTest -->
-    <test name="ChromeTest" duration-ms="84601" started-at="2016-02-01T10:13:59Z" finished-at="2016-02-01T10:15:24Z">
-      <class name="TestScripts.LoginTests">
-        <test-method status="PASS" signature="test1()[pri:0, instance:TestScripts.LoginTests@171769e]" name="test1" duration-ms="62671" started-at="2016-02-01T15:43:59Z" finished-at="2016-02-01T15:45:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:TestScripts.LoginTests@171769e]" name="test2" duration-ms="21917" started-at="2016-02-01T15:45:02Z" finished-at="2016-02-01T15:45:24Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test2 -->
-      </class> <!-- TestScripts.LoginTests -->
-    </test> <!-- ChromeTest -->
   </suite> <!-- Suite -->
 </testng-results>
